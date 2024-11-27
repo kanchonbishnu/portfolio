@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This website showcases my **project
 ---
 
 ## 🌐 Live Demo  
-👉 [[View My Portfolio]<a>target="_blank"</a>(https://kanchonbishnu.com/)](#)  
+👉 [[View My Portfolio](https://kanchonbishnu.com/)](#)  
 
 ---
 
