@@ -17,19 +17,6 @@ Welcome to my personal portfolio repository! This website showcases my **project
 
 ---
 
-## 📁 Repository Structure  
-```plaintext
-📂 portfolio/
-├── css/                # Stylesheets for the website
-├── js/                 # JavaScript files for interactivity
-├── images/             # Assets like images and icons
-├── index.html          # Main landing page
-├── about.html          # About Me page
-├── projects.html       # Projects showcase page
-├── contact.html        # Contact page
-└── README.md           # This file
-
-
 ### Enhancements Explained:
 1. **Emojis**: Add personality and make sections visually distinct.
 2. **Preview Image**: Include a screenshot or visual preview of your portfolio.
